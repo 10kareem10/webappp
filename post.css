@@ -1,0 +1,45 @@
+.pstavatar {  
+  width: 5.4%;
+  height: 40px;
+  border-radius: 50%;
+  float:left;
+  margin-right: 1%;
+}
+#postName
+{	
+	margin-top: 2.2%;
+	font-size: 13px;
+
+}
+#postContent
+{
+	margin-top: 4%;
+	margin-left: 6.5%;
+}
+#comments
+{
+
+	font-family: helvetica;
+	font-size: 13px;
+
+}
+#smAv
+{
+  width: 3%;
+  height: 20px;
+  border-radius: 50%;
+  float:left;
+  margin-right: 1%;
+
+}
+#pstName{
+	margin-top: 0.8%;
+	font-size: 9px;
+
+
+}
+
+#wrap
+{
+	display: inline-block;
+}
